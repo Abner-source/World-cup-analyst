@@ -1,0 +1,434 @@
+{
+  "mexico": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "south-africa": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "korea-republic": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "czechia": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "canada": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "bosnia-and-herzegovina": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "qatar": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "switzerland": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "brazil": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "morocco": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "haiti": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "scotland": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "usa": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "paraguay": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "australia": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "turkiye": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "germany": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "curacao": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "cote-divoire": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "ecuador": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "netherlands": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "japan": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "sweden": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "tunisia": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "belgium": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "egypt": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "iran": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "new-zealand": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "spain": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "cabo-verde": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "saudi-arabia": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "uruguay": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "france": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "senegal": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "norway": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "iraq": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "argentina": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "algeria": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "austria": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "jordan": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "portugal": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "dr-congo": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "uzbekistan": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "colombia": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "england": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "croatia": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "ghana": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  },
+  "panama": {
+    "managerName": "To Be Confirmed",
+    "historicalBest": "Pending Data",
+    "worldCupAppearances": 0,
+    "worldCupWins": 0,
+    "lastFiveWCs": [],
+    "achievements": [],
+    "worldCupNarrative": "Data is stored statically to save API tokens."
+  }
+}
