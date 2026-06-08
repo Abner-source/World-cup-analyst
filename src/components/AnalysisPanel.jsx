@@ -167,7 +167,7 @@ export default function AnalysisPanel({ team, analysis, onBack }) {
               left: 0,
               right: 0,
               bottom: 0,
-              background: "linear-gradient(180deg, rgba(17, 24, 32, 0.5) 0%, var(--surface) 100%)",
+              background: "linear-gradient(180deg, rgba(255, 255, 255, 0.4) 0%, var(--surface) 100%)",
               zIndex: -1
             }} />
           </>

@@ -35,10 +35,6 @@ export default function TeamSelector({ selectedTeam, onSelectTeam }) {
         </p>
       </div>
 
-      <div style={{ marginBottom: 32 }}>
-        <WinnerReveal />
-      </div>
-
       <div className="team-selector__search">
         <input
           id="team-search"
@@ -66,6 +62,10 @@ export default function TeamSelector({ selectedTeam, onSelectTeam }) {
             GROUP {g}
           </button>
         ))}
+      </div>
+
+      <div style={{ marginBottom: 32 }}>
+        <WinnerReveal />
       </div>
 
       <div

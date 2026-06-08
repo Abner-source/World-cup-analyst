@@ -23,6 +23,7 @@ const ELIMINATION_ORDER = [
 ];
 
 export default function WinnerReveal() {
+  const [hasStarted, setHasStarted] = useState(false);
   const [panel, setPanel] = useState("simulation"); // "simulation" | "reveal"
   const [currentPhaseLabel, setCurrentPhaseLabel] = useState("Initialising model...");
   const [progress, setProgress] = useState(0);
@@ -32,6 +33,11 @@ export default function WinnerReveal() {
   const [visibleChips, setVisibleChips] = useState([]);
   const [eliminatedChips, setEliminatedChips] = useState(new Set());
   const [isWinnerRevealed, setIsWinnerRevealed] = useState(false);
+
+  const handleStart = () => {
+    setHasStarted(true);
+    startSequence();
+  };
 
   const timeoutsRef = useRef([]);
   const animationFrameRef = useRef(null);
@@ -189,7 +195,6 @@ export default function WinnerReveal() {
   };
 
   useEffect(() => {
-    startSequence();
     return () => {
       timeoutsRef.current.forEach(clearTimeout);
       if (animationFrameRef.current) {
@@ -198,10 +203,110 @@ export default function WinnerReveal() {
     };
   }, []);
 
+  if (!hasStarted) {
+    return (
+      <div style={{
+        height: 480,
+        background: "var(--surface)",
+        border: "1px solid var(--border)",
+        borderRadius: 4,
+        padding: 32,
+        display: "flex",
+        flexDirection: "column",
+        justifyContent: "center",
+        alignItems: "center",
+        position: "relative",
+        overflow: "hidden",
+        fontFamily: "'Inter', sans-serif"
+      }}>
+        <div style={{
+          position: "absolute",
+          width: 300,
+          height: 300,
+          borderRadius: "50%",
+          border: "1px dashed var(--border)",
+          opacity: 0.6,
+          zIndex: 0
+        }} />
+        <div style={{
+          zIndex: 1,
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          textAlign: "center"
+        }}>
+          <div style={{
+            width: 80,
+            height: 80,
+            borderRadius: "50%",
+            background: "rgba(181, 140, 47, 0.08)",
+            border: "1.5px solid var(--accent)",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            marginBottom: 24
+          }}>
+            <svg width="36" height="36" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="1.5">
+              <path d="M6 9H4.5a2.5 2.5 0 0 1 0-5H6" />
+              <path d="M18 9h1.5a2.5 2.5 0 0 0 0-5H18" />
+              <path d="M4 22h16" />
+              <path d="M10 14.66V17c0 .55-.45 1-1 1H4v2h16v-2h-5c-.55 0-1-.45-1-1v-2.34" />
+              <path d="M12 2a8 8 0 0 1 8 8v3a8 8 0 0 1-8 8 8 8 0 0 1-8-8v-3a8 8 0 0 1 8-8z" />
+            </svg>
+          </div>
+
+          <h2 style={{
+            fontSize: 22,
+            fontWeight: 800,
+            color: "var(--white)",
+            letterSpacing: "-0.01em",
+            marginBottom: 10,
+            textTransform: "uppercase"
+          }}>
+            2026 World Cup Winner Prediction
+          </h2>
+
+          <p style={{
+            fontSize: 14,
+            color: "var(--text2)",
+            maxWidth: 420,
+            lineHeight: 1.6,
+            marginBottom: 32
+          }}>
+            Run our advanced statistical engine based on 10,000 real-time simulations, FIFA rankings, and betting markets to reveal the predicted winner.
+          </p>
+
+          <button 
+            className="btn btn--primary"
+            onClick={handleStart}
+            style={{
+              padding: "14px 28px",
+              fontSize: 13,
+              fontWeight: 700,
+              letterSpacing: "0.08em",
+              boxShadow: "0 4px 12px rgba(181, 140, 47, 0.2)",
+              transition: "transform 150ms ease, box-shadow 150ms ease"
+            }}
+            onMouseOver={(e) => {
+              e.currentTarget.style.transform = "translateY(-1px)";
+              e.currentTarget.style.boxShadow = "0 6px 16px rgba(181, 140, 47, 0.35)";
+            }}
+            onMouseOut={(e) => {
+              e.currentTarget.style.transform = "translateY(0)";
+              e.currentTarget.style.boxShadow = "0 4px 12px rgba(181, 140, 47, 0.2)";
+            }}
+          >
+            Find Out the Winner
+          </button>
+        </div>
+      </div>
+    );
+  }
+
   return (
     <div style={{
       height: 480,
-      background: "#0a0e14",
+      background: "var(--surface)",
       border: "1px solid var(--border)",
       borderRadius: 4,
       padding: 32,
